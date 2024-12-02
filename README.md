@@ -1,7 +1,7 @@
 # aplicativo-de-pizza
 sistema criado para realizar pedido de pizza
-# Bem-vindo à Pizzaria do Bruno Kostiuk
-print("Bem-vindos a Pizzaria do Bruno Kostiuk")
+# Bem-vindo à Pizzaria de Julia Fonseca
+print("Bem-vindos a Pizzaria de Julia Fonseca")
 
 # Menu de opções
 def mostrar_menu():
